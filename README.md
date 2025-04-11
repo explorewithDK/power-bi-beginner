@@ -12,7 +12,7 @@ This repo contains my initial journey into Power BI, where I explore basic dashb
 
 - **Amazon Sales Analysis (2025)**  
   An interactive dashboard analyzing product performance, revenue trends, and customer behavior using a Kaggle dataset.  
-  📁 [Amazon_Sales_Analysis_2025.pbix](./Amazon_Sales_Analysis_2025.pbix)
+  📁 [Amazon_Sales_Analysis_2025.pbix](./amazon-sales-analysis-2025/Amazon_Sales_Analysis_2025.pbix)
 
 More beginner projects coming soon...
 
